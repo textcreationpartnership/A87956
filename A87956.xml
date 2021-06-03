@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Kent of the rising at Rochester the magazine surprised, with 1000 armes, 100 piece of ordnance, two guns planted at the bridge, 50 ships in the river; and of the treaty with them. Also the declaration of a young man that calls himself Prince Charles, and the comming in of divers to kisse his hand. With a declaration of other passages from the county of Kent. May. 22. 1648. Imprimatur Gilb. Mabbott.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87956</idno><idno type="EEBO-CITATION">99862980</idno>
+  <idno type="VID">161715</idno>
+  <idno type="EEBO-PROQUEST">2240892617</idno>
+  
+            <idno type="STC">Wing L1482</idno>
+            <idno type="STC">Thomason E443_26</idno>
+            <idno type="STC">ESTC R202809</idno>
+            <idno type="PROQUEST">99862980</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862980e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87956)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161715)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E443[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Kent of the rising at Rochester the magazine surprised, with 1000 armes, 100 piece of ordnance, two guns planted at the bridge, 50 ships in the river; and of the treaty with them. Also the declaration of a young man that calls himself Prince Charles, and the comming in of divers to kisse his hand. With a declaration of other passages from the county of Kent. May. 22. 1648. Imprimatur Gilb. Mabbott.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Ibbitson, in Smithfield, neer the Queenes-head Tavern,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: staining and print show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  II, --  King of England, 1630-1685.</term>
+               <term type="geographic_name">Kent (England) --  History --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161715:1"/>
+            <p>A LETTER from KENT: Of the Rising at ROCHESTER THE Magazine surprised, with 1000 Armes, 100 piece of Ordnance, two Guns planted at the Bridge, 50 ships in the River; And of the Treaty with them.</p>
+            <p>ALSO The Declaration of a young man that calls himself Prince <hi>CHARLES, And the comming in of divers to kisse his hand.</hi>
+            </p>
+            <p>WITH A Declaration of other passages from the County of KENT.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>
+                                 <hi>May.</hi> 22. 1648.</date>
+                           </dateline>
+                        </opener>
+                        <p>Imprimatur</p>
+                        <closer>
+                           <signed>Gilb. Mabbott.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Printed at <hi>London</hi> by <hi>Robert Ibbitson,</hi> in Smithfield, neer the Queenes-head Tavern, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161715:2"/>
+            <pb n="1" facs="tcp:161715:2"/>
+            <head>A LETTER FROM ROCHESTER in KENT, Concerning The Surprize of the Magazine, and raising of Forces for the defence of the Towne.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YEsterday we had a rumor spread abroad about this Towne, that six troopes of Horse were comming hither from the Ar<g ref="char:EOLhyphen"/>my to plunder the Town, and quarter here,
+<pb n="2" facs="tcp:161715:3"/> and carry away divers Inhabitants for joyn<g ref="char:EOLhyphen"/>ing in a petition on Foot, for the King, which caused a discontent in many who seemed to beleeve the truth of it, as if it had been really so intended.</p>
+            <p>Last night some Gunnes were shot off, in the night, in the streets, which gave an A<g ref="char:EOLhyphen"/>larme to the town, the watch not daring to oppose them.</p>
+            <p>This morning early there were Drummes beaten, and horse and Foot gathered toge<g ref="char:EOLhyphen"/>ther, declaring that it was for the defence of the town against the Army, and they did in short time grow to a considerable number.</p>
+            <p>They marched to the Magazine, which they surprized, and took out Armes for their use, with powder, shot, match, and other ne<g ref="char:EOLhyphen"/>cessaries.</p>
+            <p>Also they drew out two pieces of Ord<g ref="char:EOLhyphen"/>nance upon Carriages, and placed them at the Bridge; and they stood upon their guard, protesting to oppose all such as should op<g ref="char:EOLhyphen"/>pose them.</p>
+            <p>There were in the Magazine nigh 1000
+<pb n="3" facs="tcp:161715:3"/> Armes, 100 piece of Ordnance, and good store of Ammunition of all sorts.</p>
+            <p>There were about 40 or 50 ships in the ri<g ref="char:EOLhyphen"/>ver, out of which many Officers came ashore, both <hi>Captains, Masters, Bosons, Gunners,</hi> and o<g ref="char:EOLhyphen"/>thers, and offered to joyn with them in the said ingagement.</p>
+            <p>There were thus gathered together to the number of 3 or 400 in few houres, who after increased to more.</p>
+            <p>But being since satisfied further in the clea<g ref="char:EOLhyphen"/>ring of the businesse, and upon a promise made to them, that all means possible shall be used for stopping all forces from being sent against them, or quartering upon them, they are much prevailed with, and the mu<g ref="char:EOLhyphen"/>tiny this night is pretty well appeased, and we hope as good as over, and that all things will be at peace here.</p>
+            <p>Captain <hi>Lea</hi> and others who are gone from hence towards you, will advertise you more fully of the particulars.</p>
+            <closer>
+               <dateline>
+                  <hi>Rochester</hi>
+                  <date>21 <hi>of May</hi> 1648.</date> late at night.</dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:161715:4"/>
+            <head>
+               <hi>A</hi> Letter from <hi>Sandwich,</hi> concerning one who is there taken, that sayes he is <hi>Prince CHARLES.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>HEre came two Butchers to the Mayor, who said that there was one that passed along with them, who saith that he is Prince <hi>Charles,</hi> the Prince of <hi>Wales,</hi> &amp; that he stole away in his slippers, and passed by the way of <hi>Deale,</hi> telling how many miles he said he walked in his slippers, with o<g ref="char:EOLhyphen"/>ther discourse which passed between him and them, &amp; that upon his report to be the Prince, they caused Poultry to be dressed, and got ready for him, with other passages between them.</p>
+            <p>This young man (who was the re<g ref="char:EOLhyphen"/>ported Prince) being asked of the Ma<g ref="char:EOLhyphen"/>jor,
+<pb n="5" facs="tcp:161715:4"/> &amp; other Magistrates of the Town, whether he was Prince <hi>Charles</hi> or not, he said he was not, denying that he said so, but the Butchers affirmed it. Then it was told him, that they would send him to the Parliament, and acquaint them how he had called himself so.</p>
+            <p>The young man then replyed that (as he said) he was the Prince of <hi>Wales</hi> Prince <hi>Charles:</hi> they asked him whe<g ref="char:EOLhyphen"/>ther he was the King of <hi>Englands</hi> son, &amp; he said yea, he was King <hi>Charles</hi> his son, and that he had heard that that County with others adjoyning to it, had declared their affections to settle him and his Father in their Rights, &amp; that therfore he was come over to joyn with them, and that his intent is to as<g ref="char:EOLhyphen"/>sist them for the bringing of the King his Father to <hi>London,</hi> to this purpose
+<pb n="6" facs="tcp:161715:5"/> (as I hear) he did declare to the Mayor, and the rest.</p>
+            <p>Divers that came to see him desired to kisse his hand, which he houlds forth to them, and some kisse it.</p>
+            <p>He came hither in very poore habit, and a course shirt upon him, but had afterwards better cloathes put upon him: But it is be<g ref="char:EOLhyphen"/>leeved by most of judgement, that it is not the Prince; but that he was one that was ap<g ref="char:EOLhyphen"/>pointed to have been reputed so, to have ani<g ref="char:EOLhyphen"/>mated the Cavaliers to joyne in a speedy bo<g ref="char:EOLhyphen"/>dy, out of this &amp; some other adjacent Coun<g ref="char:EOLhyphen"/>ties, others think it was for other ends: But without question it cannot be Prince <hi>Charles.</hi>
+            </p>
+            <p>This young man is of a middle stature; his under lip is bigger then his upper lip: he hath somewhat a flaxen haire; and his coun<g ref="char:EOLhyphen"/>tenance is pale, only that he hath been tanned with the Sunne.</p>
+            <closer>
+               <dateline>
+                  <hi>Sandwich</hi>
+                  <date>18 <hi>May</hi> 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS</trailer>
+      </body>
+   </text>
+</TEI>
